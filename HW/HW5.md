@@ -15,7 +15,12 @@ Create an ansible playbook that is able to:
 
 * **Concepts (20 points)**:
 
-    * Explain continuous integration. How is it used on a project?
+**Explain continuous integration. How is it used on a project?**
+    
+Answer - **Continuous integration** is a practice merging all developer working copies to a shared mainline several times a day, where developers automatically build, test, and analyze a software change in response to every software change committed to the source repository. A continuous integration server monitors the status of every commit and reports any problems.
+It is particularly useful in projects by reducing repetitive processes saving time, cost, and effort. CI can enable team members to release deployable software at any point in time. Detecting defects and fixing them faster is enabled by CI. 
+
+
     * Why should developers use configuration management tools to manage their software programs? What can go wrong if they don't?
 
 ## Submission
